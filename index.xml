@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Desk Space</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tife31.github.io/</link>
     <description>Recent content on The Desk Space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2025 20:05:58 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tife31.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Credit Card Autopilot</title>
-      <link>http://localhost:1313/projects/credit-card-autopilot/</link>
+      <link>https://tife31.github.io/projects/credit-card-autopilot/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/credit-card-autopilot/</guid>
+      <guid>https://tife31.github.io/projects/credit-card-autopilot/</guid>
       <description>Uses the Plaid API to track balances and due dates across my cards, so I stop logging in to check.</description>
     </item>
     <item>
       <title> Reduce Your Credit Card Mental Load with Automation</title>
-      <link>http://localhost:1313/posts/plaidapi/</link>
+      <link>https://tife31.github.io/posts/plaidapi/</link>
       <pubDate>Sat, 11 Jan 2025 20:05:58 -0500</pubDate>
-      <guid>http://localhost:1313/posts/plaidapi/</guid>
+      <guid>https://tife31.github.io/posts/plaidapi/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Have you ever seen a charge on your credit card that you didn’t recognize? Perhaps it is a late payment fee?&#xA;Are you constantly checking your statements, worrying about missing payment deadlines?&lt;/p&gt;&#xA;&lt;p&gt;In a world where we’re juggling so many responsibilities, it helps to lighten the mental load wherever possible.&#xA;Managing credit card payments can be stressful, even for people who know their due dates. I found myself repeatedly logging in to check balances, wondering if I’d paid already, and worrying about late fees or high credit utilization.&#xA;While my billing cycle is fixed (for example 25th to 24th, with a 21-day grace period from my bank), the real problem was not lack of knowledge, it was cognitive overload.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome! My name is Tife</title>
-      <link>http://localhost:1313/posts/mypost/</link>
+      <link>https://tife31.github.io/posts/mypost/</link>
       <pubDate>Sat, 11 Jan 2025 20:05:58 -0500</pubDate>
-      <guid>http://localhost:1313/posts/mypost/</guid>
-      <description>&lt;p&gt;Welcome to my space!&lt;/p&gt;&#xA;&lt;p&gt;Don’t mind the look of my desk—it’s just a reflection of all the exciting things happening here. As a software engineer pivoting into cybersecurity, and dabbling in techincal writing, there’s always something new in the mix.&lt;/p&gt;&#xA;&lt;p&gt;This space will continulaly be developed, so stay tuned and I will show you around later. For now, Here is a project I recently worked on&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/plaidapi/&#34;&gt;Introduction to Plaid API Project&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://tife31.github.io/posts/mypost/</guid>
+      <description>&lt;p&gt;Welcome to my space!&lt;/p&gt;&#xA;&lt;p&gt;Don’t mind the look of my desk—it’s just a reflection of all the exciting things happening here. As a software engineer pivoting into cybersecurity, and dabbling in techincal writing, there’s always something new in the mix.&lt;/p&gt;&#xA;&lt;p&gt;This space will continulaly be developed, so stay tuned and I will show you around later. For now, Here is a project I recently worked on&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://tife31.github.io/posts/plaidapi/&#34;&gt;Introduction to Plaid API Project&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://tife31.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://tife31.github.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a software engineer pivoting into cybersecurity, with a habit of writing things down as I learn them. This desk is where my projects, experiments and write-ups pile up.&lt;/p&gt;&#xA;&lt;p&gt;[A sentence or two on your background: where you&amp;rsquo;ve worked, what you&amp;rsquo;ve shipped, and what drew you to security.]&lt;/p&gt;</description>
     </item>
   </channel>
